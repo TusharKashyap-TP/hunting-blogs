@@ -15,7 +15,7 @@ const page = () => {
           </p>
 
           <Image
-            src="/2.img"
+            src="/3.png"
             alt="Img."
             className=" mt-10 mx-20 border-6 rounded-3xl border-b-cyan-300 border-t-cyan-300 border-l-emerald-400 border-r-emerald-400 ml-[29%]"
             width={624}
